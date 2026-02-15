@@ -1,1 +1,60 @@
 # CVEs
+
+
+-CVE-2023-38184: LDAP RCE
+-CVE-2023-35339: CryptoApi remote DoS
+-CVE-2023-21813: Windows Secure channel remote DoS
+-CVE-2023-21818: Windows Secure channel remote DoS
+-CVE-2023-21819: Windows Secure channel remote DoS
+-CVE-2022-3996: OpenSsl Remote DoS (on windows)
+-CVE-2022-41053: Kerberos Remote DoS
+-CVE-2022-3602: OpenSsl Remote DoS (on windows)
+-CVE-2022-35833: Windows Secure channel remote DoS
+-CVE-2022-30196: Windows Secure channel remote DoS
+-CVE-2022-35748: Http.sys remote DoS
+-CVE-2022-26915: Windows Secure channel remote DoS
+-CVE-2022-21849: IKE Remote Code Execution Vulnerability
+-CVE-2022-21848: IKE Remote DoS
+-CVE-2022-21890: IKE Remote DoS
+-CVE-2022-21889: IKE Remote DoS
+-CVE-2022-21883: IKE Remote DoS
+-CVE-2022-21843: IKE Remote DoS
+-CVE-2021-33772: Windows TCP/IP remote DoS
+-CVE-2021-34511: Windows installer LPE
+-CVE-2021-28479: Windows CSC Service Information Disclosure
+-CVE-2021-28437: Windows Installer Information Disclosure
+-CVE-2020-0842: Windows Installer LPE
+-CVE-2020-0942: Connected User Experiences and Telemetry Service LPE
+-CVE-2020-0686: Windows Installer LPE
+-CVE-2020-3941: VMWare tools MSI LPE
+-CVE-2019-1385: Windows Appx LPE
+-CVE-2019-1415: Windows Installer LPE
+-CVE-2019-1423: Windows LPE
+-CVE-2019-1319: Windows Error Reporting LPE
+-CVE-2019-1292: Windows LPE
+-CVE-2019-1385: Windows Appx LPE
+-CVE-2019-1415: Windows Installer LPE
+-CVE-2019-1423: Windows LPE
+-CVE-2019-1319: Windows Error Reporting LPE
+-CVE-2019-1129: Windows appx LPE
+-CVE-2019-1069: Windows Task Scheduler LPE
+-CVE-2019-1053: Windows filepicker sandbox escape
+-CVE-2019-1064: Windows appx LPE
+-CVE-2019-0973: Windows Installer LPE
+-CVE-2019-0863: Windows Error Reporting LPE
+-CVE-2019-0636: Windows Installer LPE
+-CVE-2018-8584: Windows Data Sharing Service LPE
+-CVE-2018-8440: Windows Task Scheduler LPE
+-CVE-2018-8314: Windows filepicker sandbox escape
+-CVE-2018-8339: Windows Installer LPE
+-CVE-2018-0868: Windows Installer LPE
+-CVE-2018-4872: Adobe reader sandbox escape
+-CVE-2017-8633: Windows Error Reporting LPE
+-CVE-2017-0226: IE11 EPM sandbox escape
+-CVE-2017-8503: Edge sandbox escape
+-CVE-2017-3080: Flash broker sandbox escape
+-CVE-2016-7292: Windows installer LPE
+-CVE-2016-0194: IE11 EPM sandbox escape
+-CVE-2016-3292: IE11 EPM sandbox escape
+-CVE-2015-1739: IE11 EPM sandbox escape
+-CVE-2015-1743: IE11 EPM sandbox escap
