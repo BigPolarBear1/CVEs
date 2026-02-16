@@ -1,5 +1,6 @@
 # CVEs
 
+Note: I dont report bugs I find anymore. I'm too proud to ever participate in bug bounty again. Not after what Microsoft did. And if you want the real story of what happened, I suggest you talk to the people who knew me, had actual interactions with me, like my former manager who had worked there for 27 years years and who was also fired by Microsoft for being supportive of me. I can't do it anymore, participate in a system like that. It taught me something important... morality is relative, because in the end, every part of human society is rotten to the core. I tried for a long time to cling onto idealism and do the right thing, I'm a changed person now.. you just got to look out for yourself, because people want to see you fail and bring you back down if you even have the couragae to try and soar to the top.
 
 -CVE-2023-38184: LDAP RCE</br>
 -CVE-2023-35339: CryptoApi remote DoS</br>
